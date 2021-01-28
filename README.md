@@ -7,7 +7,7 @@
 * various categories for news 
 * users can add liked items into favourite ssection
 ## Libraries
-* Android Architecture Components(Room, LiveData, ViewModel), Navigation Component
+* Android Architecture Components(Room, LiveData, Data Binding, ViewModel), Navigation Component
 * Retrofit, Glide, Gson, 
 * Kotlin Coroutines
  
